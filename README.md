@@ -1,4 +1,4 @@
-# 📌 Code Combiner
+#  Code Combiner
 
 A lightweight and efficient Python-based GUI utility designed to merge multiple source code or text files into a single consolidated document. This tool is perfect for developers who need to aggregate their codebase for AI analysis, documentation, or backup purposes.
 
@@ -48,12 +48,6 @@ cd code-combiner
 python main.py
 
 ```
-
----
-
-## 🌐 Live Demo
-
-[🔗 Live Site](https://your-live-demo-link.com)
 
 ---
 
