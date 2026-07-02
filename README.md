@@ -1,4 +1,4 @@
-#  Code Combiner
+#  Files Combiner
 
 A lightweight and efficient Python-based GUI utility designed to merge multiple source code or text files into a single consolidated document. This tool is perfect for developers who need to aggregate their codebase for AI analysis, documentation, or backup purposes.
 
@@ -27,7 +27,7 @@ A lightweight and efficient Python-based GUI utility designed to merge multiple 
 ## 📁 Folder Structure
 
 ```text
-code-combiner/
+FilesCombiner/
 ├── main.py
 └── README.md
 
@@ -39,10 +39,10 @@ code-combiner/
 
 ```bash
 # Clone the repository
-git clone https://github.com/FAHAD-ALI-github/code-combiner
+git clone https://github.com/FAHAD-ALI-github/FilesCombiner.git
 
 # Navigate into the project directory
-cd code-combiner
+cd FilesCombiner
 
 # Run the application
 python main.py
